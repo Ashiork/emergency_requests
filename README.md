@@ -16,3 +16,12 @@
 *   [ЛР2. Модель данных](docs/data-model.md)
 *   [ЛР2. Контракт API](docs/api-contract.md)
 *   [ЛР2. Матрица требований](docs/requirements-matrix.md)
+
+**Запуск frontend**
+
+1.  Установить Node.js
+2.  В терминале из корня проекта выполнить:  
+    cd frontend  
+    npm install  
+    npm run dev
+3.  Открыть адрес Vite [http://localhost:5173](http://localhost:5173)
